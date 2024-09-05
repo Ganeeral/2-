@@ -6,7 +6,7 @@ let admin = name;
 alert(admin);
 
 const city = prompt("Введите ваш город:");
-const year = prompt("Введите год образование года:");
+const year = prompt("Введите год образование города:");
 const population = prompt("Введите ваше население:");
 
 let age_city = 2024 - year;
