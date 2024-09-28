@@ -11,8 +11,6 @@ modalHideButton.addEventListener('click', () => {
 })
 
 
-//Пишите здесь
-
 let button = document.querySelector('.send');
 let form = document.forms['modal-form'];
 let news = document.querySelectorAll('.news-item');
